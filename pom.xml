@@ -79,8 +79,8 @@
     <properties>
              
 
-   <sonar.organization>grizzlybearing</sonar.organization>
-   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+    <sonar.organization>grizzlybearing</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 
 
         <maven.compiler.source>11</maven.compiler.source>
