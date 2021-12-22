@@ -14,5 +14,8 @@ public class GameTetrisTest {
     public void isComplexCalculations3WorksCorrectly(){
         Assert.assertEquals(125, GameTetris.complexCalculations3(125));
     }
-    
+    @Test
+    public void isComplexCalculations4WorksCorrectly(){
+        Assert.assertEquals(125, GameTetris.complexCalculations4(125));
+    }
 }
